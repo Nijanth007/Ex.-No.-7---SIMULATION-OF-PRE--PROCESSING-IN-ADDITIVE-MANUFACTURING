@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2025-04-30 105315 - Copy](https://github.com/user-attachments/assets/48659130-9f99-4933-9473-11f623035559)# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -45,8 +45,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-30 105259](https://github.com/user-attachments/assets/9a89cfdd-9f3e-4846-a64e-815bb91d939d)
+![Screenshot 2025-04-30 105315 - Copy](https://github.com/user-attachments/assets/188f9dca-ed9a-436d-8fe8-741781d24590)
+![Screenshot 2025-04-30 105325 - Copy](https://github.com/user-attachments/assets/717598f6-e317-426d-8185-8bb4ab3d3f04)
+![Screenshot 2025-04-30 105415 - Copy](https://github.com/user-attachments/assets/5b0e16e8-b1d5-456d-907c-5ccd66197b98)
+![Screenshot 2025-04-30 105434 - Copy](https://github.com/user-attachments/assets/3370c28f-e7ea-4306-879c-5e4e265f8af3)
+![Screenshot 2025-04-30 105449 - Copy](https://github.com/user-attachments/assets/c17997c2-9905-4d77-8a09-9b969a6c4647)
+
+### Name: Nijanth K
+### Register Number: 212224230186
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
