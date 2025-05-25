@@ -1,5 +1,4 @@
-![Screenshot 2025-04-30 105315 - Copy](https://github.com/user-attachments/assets/48659130-9f99-4933-9473-11f623035559)# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
